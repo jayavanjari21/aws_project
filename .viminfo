@@ -12,7 +12,7 @@
 ~h
 # Command Line History (newest to oldest):
 :q!
-|2,0,1765564061,,"q!"
+|2,0,1765566014,,"q!"
 :wq!
 |2,0,1765563926,,"wq!"
 
@@ -27,20 +27,114 @@
 # Registers:
 
 # File marks:
-'0  1  0  ~/aws_project/aws/file.txt
-|4,48,1,0,1765564061,"~/aws_project/aws/file.txt"
-'1  1  19  ~/Aws/update
-|4,49,1,19,1765563926,"~/Aws/update"
-'2  3  24  ~/Aws/aws/ad.txt
-|4,50,3,24,1765563845,"~/Aws/aws/ad.txt"
+'0  1  0  ~/aws_project/new.txt
+|4,48,1,0,1765566014,"~/aws_project/new.txt"
+'1  1  0  ~/aws_project/aws/file.txt
+|4,49,1,0,1765565951,"~/aws_project/aws/file.txt"
+'2  1  0  ~/aws_project/new.txt
+|4,50,1,0,1765564830,"~/aws_project/new.txt"
+'3  1  0  ~/aws_project/aws/file.txt
+|4,51,1,0,1765564809,"~/aws_project/aws/file.txt"
+'4  1  0  ~/aws_project/aws/file.txt
+|4,52,1,0,1765564061,"~/aws_project/aws/file.txt"
+'5  1  0  ~/aws_project/aws/file.txt
+|4,53,1,0,1765564061,"~/aws_project/aws/file.txt"
+'6  1  19  ~/Aws/update
+|4,54,1,19,1765563926,"~/Aws/update"
+'7  3  24  ~/Aws/aws/ad.txt
+|4,55,3,24,1765563845,"~/Aws/aws/ad.txt"
 
 # Jumplist (newest first):
+-'  1  0  ~/aws_project/new.txt
+|4,39,1,0,1765566014,"~/aws_project/new.txt"
+-'  1  0  ~/aws_project/aws/file.txt
+|4,39,1,0,1765565951,"~/aws_project/aws/file.txt"
+-'  1  0  ~/aws_project/aws/file.txt
+|4,39,1,0,1765565951,"~/aws_project/aws/file.txt"
+-'  1  0  ~/aws_project/new.txt
+|4,39,1,0,1765564830,"~/aws_project/new.txt"
+-'  1  0  ~/aws_project/new.txt
+|4,39,1,0,1765564830,"~/aws_project/new.txt"
+-'  1  0  ~/aws_project/aws/file.txt
+|4,39,1,0,1765564809,"~/aws_project/aws/file.txt"
+-'  1  0  ~/aws_project/aws/file.txt
+|4,39,1,0,1765564809,"~/aws_project/aws/file.txt"
+-'  1  0  ~/aws_project/aws/file.txt
+|4,39,1,0,1765564809,"~/aws_project/aws/file.txt"
+-'  1  0  ~/aws_project/aws/file.txt
+|4,39,1,0,1765564809,"~/aws_project/aws/file.txt"
+-'  1  0  ~/aws_project/aws/file.txt
+|4,39,1,0,1765564061,"~/aws_project/aws/file.txt"
+-'  1  0  ~/aws_project/aws/file.txt
+|4,39,1,0,1765564061,"~/aws_project/aws/file.txt"
+-'  1  0  ~/aws_project/aws/file.txt
+|4,39,1,0,1765564061,"~/aws_project/aws/file.txt"
 -'  1  0  ~/aws_project/aws/file.txt
 |4,39,1,0,1765564061,"~/aws_project/aws/file.txt"
 -'  1  19  ~/Aws/update
 |4,39,1,19,1765563926,"~/Aws/update"
 -'  1  19  ~/Aws/update
 |4,39,1,19,1765563926,"~/Aws/update"
+-'  1  19  ~/Aws/update
+|4,39,1,19,1765563926,"~/Aws/update"
+-'  1  19  ~/Aws/update
+|4,39,1,19,1765563926,"~/Aws/update"
+-'  1  19  ~/Aws/update
+|4,39,1,19,1765563926,"~/Aws/update"
+-'  1  19  ~/Aws/update
+|4,39,1,19,1765563926,"~/Aws/update"
+-'  1  19  ~/Aws/update
+|4,39,1,19,1765563926,"~/Aws/update"
+-'  1  19  ~/Aws/update
+|4,39,1,19,1765563926,"~/Aws/update"
+-'  1  19  ~/Aws/update
+|4,39,1,19,1765563926,"~/Aws/update"
+-'  1  19  ~/Aws/update
+|4,39,1,19,1765563926,"~/Aws/update"
+-'  1  19  ~/Aws/update
+|4,39,1,19,1765563926,"~/Aws/update"
+-'  1  19  ~/Aws/update
+|4,39,1,19,1765563926,"~/Aws/update"
+-'  1  19  ~/Aws/update
+|4,39,1,19,1765563926,"~/Aws/update"
+-'  1  19  ~/Aws/update
+|4,39,1,19,1765563926,"~/Aws/update"
+-'  1  19  ~/Aws/update
+|4,39,1,19,1765563926,"~/Aws/update"
+-'  1  19  ~/Aws/update
+|4,39,1,19,1765563926,"~/Aws/update"
+-'  1  19  ~/Aws/update
+|4,39,1,19,1765563926,"~/Aws/update"
+-'  1  19  ~/Aws/update
+|4,39,1,19,1765563926,"~/Aws/update"
+-'  1  19  ~/Aws/update
+|4,39,1,19,1765563926,"~/Aws/update"
+-'  1  19  ~/Aws/update
+|4,39,1,19,1765563926,"~/Aws/update"
+-'  1  19  ~/Aws/update
+|4,39,1,19,1765563926,"~/Aws/update"
+-'  1  19  ~/Aws/update
+|4,39,1,19,1765563926,"~/Aws/update"
+-'  1  19  ~/Aws/update
+|4,39,1,19,1765563926,"~/Aws/update"
+-'  1  19  ~/Aws/update
+|4,39,1,19,1765563926,"~/Aws/update"
+-'  1  19  ~/Aws/update
+|4,39,1,19,1765563926,"~/Aws/update"
+-'  1  19  ~/Aws/update
+|4,39,1,19,1765563926,"~/Aws/update"
+-'  1  19  ~/Aws/update
+|4,39,1,19,1765563926,"~/Aws/update"
+-'  1  19  ~/Aws/update
+|4,39,1,19,1765563926,"~/Aws/update"
+-'  1  19  ~/Aws/update
+|4,39,1,19,1765563926,"~/Aws/update"
+-'  1  19  ~/Aws/update
+|4,39,1,19,1765563926,"~/Aws/update"
+-'  1  19  ~/Aws/update
+|4,39,1,19,1765563926,"~/Aws/update"
+-'  1  19  ~/Aws/update
+|4,39,1,19,1765563926,"~/Aws/update"
 -'  3  24  ~/Aws/aws/ad.txt
 |4,39,3,24,1765563845,"~/Aws/aws/ad.txt"
 -'  3  24  ~/Aws/aws/ad.txt
@@ -49,19 +143,117 @@
 |4,39,3,24,1765563845,"~/Aws/aws/ad.txt"
 -'  3  24  ~/Aws/aws/ad.txt
 |4,39,3,24,1765563845,"~/Aws/aws/ad.txt"
--'  1  0  ~/Aws/aws/ad.txt
-|4,39,1,0,1765563773,"~/Aws/aws/ad.txt"
--'  1  0  ~/Aws/aws/ad.txt
-|4,39,1,0,1765563773,"~/Aws/aws/ad.txt"
--'  1  0  ~/Aws/aws/ad.txt
-|4,39,1,0,1765563773,"~/Aws/aws/ad.txt"
--'  1  0  ~/Aws/aws/ad.txt
-|4,39,1,0,1765563773,"~/Aws/aws/ad.txt"
+-'  3  24  ~/Aws/aws/ad.txt
+|4,39,3,24,1765563845,"~/Aws/aws/ad.txt"
+-'  3  24  ~/Aws/aws/ad.txt
+|4,39,3,24,1765563845,"~/Aws/aws/ad.txt"
+-'  3  24  ~/Aws/aws/ad.txt
+|4,39,3,24,1765563845,"~/Aws/aws/ad.txt"
+-'  3  24  ~/Aws/aws/ad.txt
+|4,39,3,24,1765563845,"~/Aws/aws/ad.txt"
+-'  3  24  ~/Aws/aws/ad.txt
+|4,39,3,24,1765563845,"~/Aws/aws/ad.txt"
+-'  3  24  ~/Aws/aws/ad.txt
+|4,39,3,24,1765563845,"~/Aws/aws/ad.txt"
+-'  3  24  ~/Aws/aws/ad.txt
+|4,39,3,24,1765563845,"~/Aws/aws/ad.txt"
+-'  3  24  ~/Aws/aws/ad.txt
+|4,39,3,24,1765563845,"~/Aws/aws/ad.txt"
+-'  3  24  ~/Aws/aws/ad.txt
+|4,39,3,24,1765563845,"~/Aws/aws/ad.txt"
+-'  3  24  ~/Aws/aws/ad.txt
+|4,39,3,24,1765563845,"~/Aws/aws/ad.txt"
+-'  3  24  ~/Aws/aws/ad.txt
+|4,39,3,24,1765563845,"~/Aws/aws/ad.txt"
+-'  3  24  ~/Aws/aws/ad.txt
+|4,39,3,24,1765563845,"~/Aws/aws/ad.txt"
+-'  3  24  ~/Aws/aws/ad.txt
+|4,39,3,24,1765563845,"~/Aws/aws/ad.txt"
+-'  3  24  ~/Aws/aws/ad.txt
+|4,39,3,24,1765563845,"~/Aws/aws/ad.txt"
+-'  3  24  ~/Aws/aws/ad.txt
+|4,39,3,24,1765563845,"~/Aws/aws/ad.txt"
+-'  3  24  ~/Aws/aws/ad.txt
+|4,39,3,24,1765563845,"~/Aws/aws/ad.txt"
+-'  3  24  ~/Aws/aws/ad.txt
+|4,39,3,24,1765563845,"~/Aws/aws/ad.txt"
+-'  3  24  ~/Aws/aws/ad.txt
+|4,39,3,24,1765563845,"~/Aws/aws/ad.txt"
+-'  3  24  ~/Aws/aws/ad.txt
+|4,39,3,24,1765563845,"~/Aws/aws/ad.txt"
+-'  3  24  ~/Aws/aws/ad.txt
+|4,39,3,24,1765563845,"~/Aws/aws/ad.txt"
+-'  3  24  ~/Aws/aws/ad.txt
+|4,39,3,24,1765563845,"~/Aws/aws/ad.txt"
+-'  3  24  ~/Aws/aws/ad.txt
+|4,39,3,24,1765563845,"~/Aws/aws/ad.txt"
+-'  3  24  ~/Aws/aws/ad.txt
+|4,39,3,24,1765563845,"~/Aws/aws/ad.txt"
+-'  3  24  ~/Aws/aws/ad.txt
+|4,39,3,24,1765563845,"~/Aws/aws/ad.txt"
+-'  3  24  ~/Aws/aws/ad.txt
+|4,39,3,24,1765563845,"~/Aws/aws/ad.txt"
+-'  3  24  ~/Aws/aws/ad.txt
+|4,39,3,24,1765563845,"~/Aws/aws/ad.txt"
+-'  3  24  ~/Aws/aws/ad.txt
+|4,39,3,24,1765563845,"~/Aws/aws/ad.txt"
+-'  3  24  ~/Aws/aws/ad.txt
+|4,39,3,24,1765563845,"~/Aws/aws/ad.txt"
+-'  3  24  ~/Aws/aws/ad.txt
+|4,39,3,24,1765563845,"~/Aws/aws/ad.txt"
+-'  3  24  ~/Aws/aws/ad.txt
+|4,39,3,24,1765563845,"~/Aws/aws/ad.txt"
+-'  3  24  ~/Aws/aws/ad.txt
+|4,39,3,24,1765563845,"~/Aws/aws/ad.txt"
+-'  3  24  ~/Aws/aws/ad.txt
+|4,39,3,24,1765563845,"~/Aws/aws/ad.txt"
+-'  3  24  ~/Aws/aws/ad.txt
+|4,39,3,24,1765563845,"~/Aws/aws/ad.txt"
+-'  3  24  ~/Aws/aws/ad.txt
+|4,39,3,24,1765563845,"~/Aws/aws/ad.txt"
+-'  3  24  ~/Aws/aws/ad.txt
+|4,39,3,24,1765563845,"~/Aws/aws/ad.txt"
+-'  3  24  ~/Aws/aws/ad.txt
+|4,39,3,24,1765563845,"~/Aws/aws/ad.txt"
+-'  3  24  ~/Aws/aws/ad.txt
+|4,39,3,24,1765563845,"~/Aws/aws/ad.txt"
+-'  3  24  ~/Aws/aws/ad.txt
+|4,39,3,24,1765563845,"~/Aws/aws/ad.txt"
+-'  3  24  ~/Aws/aws/ad.txt
+|4,39,3,24,1765563845,"~/Aws/aws/ad.txt"
+-'  3  24  ~/Aws/aws/ad.txt
+|4,39,3,24,1765563845,"~/Aws/aws/ad.txt"
+-'  3  24  ~/Aws/aws/ad.txt
+|4,39,3,24,1765563845,"~/Aws/aws/ad.txt"
+-'  3  24  ~/Aws/aws/ad.txt
+|4,39,3,24,1765563845,"~/Aws/aws/ad.txt"
+-'  3  24  ~/Aws/aws/ad.txt
+|4,39,3,24,1765563845,"~/Aws/aws/ad.txt"
+-'  3  24  ~/Aws/aws/ad.txt
+|4,39,3,24,1765563845,"~/Aws/aws/ad.txt"
+-'  3  24  ~/Aws/aws/ad.txt
+|4,39,3,24,1765563845,"~/Aws/aws/ad.txt"
+-'  3  24  ~/Aws/aws/ad.txt
+|4,39,3,24,1765563845,"~/Aws/aws/ad.txt"
+-'  3  24  ~/Aws/aws/ad.txt
+|4,39,3,24,1765563845,"~/Aws/aws/ad.txt"
+-'  3  24  ~/Aws/aws/ad.txt
+|4,39,3,24,1765563845,"~/Aws/aws/ad.txt"
+-'  3  24  ~/Aws/aws/ad.txt
+|4,39,3,24,1765563845,"~/Aws/aws/ad.txt"
+-'  3  24  ~/Aws/aws/ad.txt
+|4,39,3,24,1765563845,"~/Aws/aws/ad.txt"
+-'  3  24  ~/Aws/aws/ad.txt
+|4,39,3,24,1765563845,"~/Aws/aws/ad.txt"
 
 # History of marks within files (newest to oldest):
 
+> ~/aws_project/new.txt
+	*	1765566007	0
+	"	1	0
+
 > ~/aws_project/aws/file.txt
-	*	1765564056	0
+	*	1765565942	0
 	"	1	0
 
 > ~/Aws/update
